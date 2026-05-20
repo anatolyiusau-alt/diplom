@@ -1,6 +1,6 @@
 # ABSTRACT
 
-The qualification thesis consists of ___ pages, ___ tables, ___ figures, ___ appendices, ___ references.
+The qualification thesis consists of 51 pages, 0 tables, 0 figures, 2 appendices, 61 references.
 
 SOCIAL MEDIA, PUBLIC OPINION, WAR IN UKRAINE, POLITICAL COMMUNICATION, INFORMATION-PSYCHOLOGICAL INFLUENCE, NARRATIVE, DISINFORMATION, CONTENT ANALYSIS, TELEGRAM, FACEBOOK, TIKTOK.
 
@@ -12,9 +12,9 @@ SOCIAL MEDIA, PUBLIC OPINION, WAR IN UKRAINE, POLITICAL COMMUNICATION, INFORMATI
 
 **Research methods**: analysis and synthesis, comparative method, structural-functional method, content analysis, case analysis, systemic approach.
 
-**Main conclusions** _(to be filled in after the work is completed)_:
+**Main conclusions**:
 
-1) _(conclusion 1 — on theoretical and methodological foundations)_;
-2) _(conclusion 2 — on general mechanisms of influence of social media on public opinion)_;
-3) _(conclusion 3 — on the Ukrainian case)_;
-4) _(conclusion 4 — recommendations; confirmation or refutation of the hypothesis)_.
+1) it has been established that under the conditions of full-scale war, social media (Telegram, Facebook, TikTok) have become the dominant channel for shaping public opinion in Ukraine, surpassing traditional media in terms of reach and speed;
+2) the dialectical nature of social media influence has been revealed: the same mechanisms (virality, anonymity, emotionality) generate both constructive (mobilization, crowdfunding, OSINT) and destructive (IPSO, polarization, panic) effects;
+3) five dominant Ukrainian and five key hostile narratives have been identified; the mechanism of hostile actors "hijacking" real societal problems has been demonstrated;
+4) the research hypothesis has been confirmed — a five-level system of recommendations for improving the effectiveness and safety of social media use in public opinion formation has been proposed.
